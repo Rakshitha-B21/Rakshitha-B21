@@ -117,7 +117,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshitha-B21&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=e9d5ff&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakshitha-B21&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=e9d5ff&area=true&hide_border=true)](https://github.com/Rakshitha-B21)
 
 </div>
 
